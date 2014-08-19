@@ -1,4 +1,4 @@
-materials
-=========
+Computer Science 1000 Class Materials
+=====================================
 
-Class materials for Computer Science 1000
+All class materials for Computer Science 1000 will be posted here.
